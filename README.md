@@ -111,8 +111,7 @@ This will dynamically load the search feature from the latest version of this re
 
 ## 📸 Screenshot
 
-![Search Preview](assets/image.png.png)
-*Use a real preview here to demonstrate the UI.*
+![Search Preview](assets/image.png)
 
 ---
 
