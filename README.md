@@ -109,6 +109,13 @@ This will dynamically load the search feature from the latest version of this re
 
 ---
 
+## 📸 Screenshot
+
+![Search Preview](assets/image.png.png)
+*Use a real preview here to demonstrate the UI.*
+
+---
+
 ## 🧲 Example Usage
 
 Once integrated, the search box will appear in the top-left corner:
@@ -141,13 +148,6 @@ Once integrated, the search box will appear in the top-left corner:
 * If `tour` is not defined, a simple alert is shown
 * The list auto-hides when clicking outside the widget
 * Simple DOM-based approach — no dependencies
-
----
-
-## 📸 Screenshot
-
-![Search Preview](screenshot.png)
-*Use a real preview here to demonstrate the UI.*
 
 ---
 
