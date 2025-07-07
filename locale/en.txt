@@ -1,0 +1,44 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_B3536AAD_ABEF_C5FA_41DA_388EF6EC3AD5.url = https://dreamy-stroopwafel-f2b8f8.netlify.app/
+WebFrame_93CB6771_B196_3F49_4199_FDAB761BB1F1.url = https://prismatic-torrone-0200cc.netlify.app/
+WebFrame_D609EB18_D98C_46C0_41D9_EAC396C02922.url = https://uandi.media/Virtual-tour/Other-Menu/index.html
+WebFrame_BBAA67A5_B656_9ACB_41E1_8C2BE79A0B9C.url = https://univgg.netlify.app/
+
+## Media
+
+### Audio
+audiores_C794F9D5_DA93_C540_41EA_D6852D6A5A04.mp3Url = media/audio_C45018EB_DA95_C341_41CC_7C0038628FF3_en.mp3
+audiores_C4E0ADFD_DB7C_5D41_41E9_97C4B4986695.mp3Url = media/audio_C7AAD2A1_DB74_47C1_4189_BAAC1A5D598C_en.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_16FF3FF0_3F9E_1D2D_415B_B0BB9B210610.label = Aerial View
+
+## Skin
+
+### Label
+Label_CA3BA843_D994_C340_41BA_3F94D95A1C9B.text = Click and drag in any direction to explore the menu
+
+### Multiline Text
+HTMLText_91059D36_B096_30CB_41D3_7C0A93606CF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,1);line-height:130%;text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:Satoshi Medium;">The Gandhigram Rural Institute</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,1);line-height:130%;text-align:center;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:20px;font-family:Satoshi Medium;">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_AE98D1AC_B0BF_D3D8_41DF_B1ED33F177CB.toolTip = Enter Fullscreen
+IconButton_AF3039DD_B08E_5379_415E_43A6F2138823.toolTip = Exit Fullscreen
+IconButton_AFA7C079_B08E_5139_41CF_4FD0B5164DDF.toolTip = Home
+IconButton_ADFC18C1_B08E_5149_41D4_9B2AC847FDAF.toolTip = Main Menu
+IconButton_AE4CD306_B0BF_D0CB_41BB_C8DB24FD89C6.toolTip = Mute
+IconButton_AE85C624_B08E_50CF_41E2_AA67AF7F6815.toolTip = Others
+IconButton_90EC9169_B08E_5359_41E2_9E4BF9C74A1F.toolTip = Un-Mute
+
+## Tour
+
+### Description
+
+### Title
+tour.name = The Gandhigram Rural Institute
