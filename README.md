@@ -2,6 +2,8 @@
 
 **Search-JS** is a lightweight, plug-and-play JavaScript widget that adds a beautiful, fast, and dynamic search box to your **Virtual Tour** web apps. It helps users search through panorama titles and external links in real-time — ideal for **campus tours, exhibitions, smart city apps, tourism showcases**, and more.
 
+🔗 **Live Preview:** [View Project](https://search-option-4-vr-tour.netlify.app/)
+
 ![Preview Screenshot](assets/screenshot.png)
 
 ---
